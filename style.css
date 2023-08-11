@@ -1,0 +1,38 @@
+body,html {
+    margin:auto;
+    border:solid 10px rgb(80, 232, 252);
+    background-color:aquamarine;
+}
+
+#destaque{
+    background-image: url(fundo.jpg);
+    text-align: center;
+    height: 100px;
+}
+
+#parmegiana{
+    width: 50%;
+}
+#prato-1{
+    vertical-align: top;
+    width: 70%;
+    margin-left: 55%;
+}
+
+#prato-2{
+    vertical-align:top;
+    width: 70%;
+    margin-left: 55%;
+}
+
+#prato-3{
+    vertical-align: top;
+    width: 70%;
+    margin-left: 55%;
+
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}
